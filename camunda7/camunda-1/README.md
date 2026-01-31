@@ -17,7 +17,7 @@ public class SayHelloDelegate implements JavaDelegate {
     }
 }
 ```
-
+We deploy the BPMN and start the process instance.
 
 ### Output
 ```declarative
